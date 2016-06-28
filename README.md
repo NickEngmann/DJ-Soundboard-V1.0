@@ -1,5 +1,5 @@
-# EE445L-Projects
-Soundboard that I created for my EE445L Final project
+# DJ Soundboard V1.0
+Soundboard that I created for my EE445L Final project</br>
 <img src="https://i.imgur.com/kFZNdbT.jpg" width="400" height="400"/></br>
 <img src="https://i.imgur.com/Ywym3Iw.jpg" width="400" height="400"/></br>
 This DJ Soundboard was a fun project that allowed me to use a majority of my integrated circuits knowledge to produce a fully functional
