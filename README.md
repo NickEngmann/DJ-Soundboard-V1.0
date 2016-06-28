@@ -10,6 +10,6 @@ PCB Design done on PCB Artist 3.0</br>
 C++ and C</br>
 At least 100 hours in debugging and assembling</br>
 # Pictures of Design
-<img src="https://i.imgur.com/76DC1td.png" width="600"/></br> PCB Artist Rendering</br>
-<img src="https://i.imgur.com/lU3GBP5.png" width="600"/> </br> Schematic Design</br>
-<img src="https://i.imgur.com/DL2w6Vb.png" width="600"/></br> Schematic Design
+<img src="https://i.imgur.com/76DC1td.png" width="800"/></br> PCB Artist Rendering</br>
+<img src="https://i.imgur.com/lU3GBP5.png" width="800"/> </br> Schematic Design</br>
+<img src="https://i.imgur.com/DL2w6Vb.png" width="800"/></br> Schematic Design
